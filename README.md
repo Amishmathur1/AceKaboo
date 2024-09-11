@@ -1,6 +1,6 @@
-# Greencard
+# Greencart
 
-Greencard is a platform designed to facilitate the trading of surplus green energy between sellers and buyers. The platform connects sellers who generate more green energy than they need with buyers looking to purchase it, with all transactions securely managed through blockchain technology and a government agency responsible for storage and delivery logistics.
+Greencart is a platform designed to facilitate the trading of surplus green energy between sellers and buyers. The platform connects sellers who generate more green energy than they need with buyers looking to purchase it, with all transactions securely managed through blockchain technology and a government agency responsible for storage and delivery logistics.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -13,7 +13,7 @@ Greencard is a platform designed to facilitate the trading of surplus green ener
 - [Contact](#contact)
 
 ## Overview
-Greencard allows green energy producers to sell their surplus energy, contributing to the sustainability of energy markets. Buyers can purchase energy directly from sellers via the platform, and all transactions are handled through blockchain to ensure transparency and security. A government agency oversees the physical storage and delivery of the energy to ensure compliance and reliability.
+Greencart allows green energy producers to sell their surplus energy, contributing to the sustainability of energy markets. Buyers can purchase energy directly from sellers via the platform, and all transactions are handled through blockchain to ensure transparency and security. A government agency oversees the physical storage and delivery of the energy to ensure compliance and reliability.
 
 ## Features
 - **Seller Platform**: Allows users to register as energy producers and list their surplus energy for sale.
@@ -78,4 +78,3 @@ If you have any questions or suggestions, feel free to contact the project team:
 - [Amish Mathur (Amishmathur1)](https://github.com/amishmathur1)
 - [Ansh (PikachuGX)](https://github.com/PikachuGX)
 - [Sarthak Dharmik (XaXtric7)](https://github.com/XaXtric7)
-
