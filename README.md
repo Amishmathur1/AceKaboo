@@ -75,10 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions or suggestions, feel free to contact the project team:
-- **Project Lead**: Amish (mathuramish21@gmail.com)
-- **GitHub**: (https://github.com/Amishmathur1)
-- Team Member: Ansh (162004ansh@gmail.com)
-- **GitHub**: (https://github.com/PikachuGX)
-- Team Member: Sarthak Dharmik (sarthakdharmik10227xix@gmail.com)
-**GitHub**: (https://github.com/XaXtic7)
-- Team Member: Om Shishodiya
+- [Amish Mathur (Amishmathur1)](https://github.com/amishmathur1)
+- [Ansh (PikachuGX)](https://github.com/PikachuGX)
+- [Sarthak Dharmik (XaXtric7)](https://github.com/XaXtric7)
+
