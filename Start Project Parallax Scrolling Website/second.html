@@ -114,7 +114,7 @@ background: linear-gradient(125deg, rgba(15,55,47,1) 0%, rgba(24,86,73,1) 35%, r
             font-size: 2em;
             margin-bottom: 20px;
         }
-
+      
         .grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -122,11 +122,21 @@ background: linear-gradient(125deg, rgba(15,55,47,1) 0%, rgba(24,86,73,1) 35%, r
         }
 
         .image-placeholder {
-            background: #2d9596;
-            height: 300px;
+            height: 350px;
             border-radius: 10px;
+            background: none; /* Removes the background color */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden; /* Ensures the image fits within the rounded borders */
         }
 
+        .image-placeholder img {
+            height: 100%;
+            width: auto; /* Ensures the image scales proportionally */
+            border-radius: inherit; /* Applies the same border-radius to the image */
+            filter: blur(0.5px);
+        }
         .energy-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -183,7 +193,7 @@ background: linear-gradient(125deg, rgba(15,55,47,1) 0%, rgba(24,86,73,1) 35%, r
             width: 100%;
             padding: 10px;
             border: 1px solid #a8edea;
-            background: rgba(255, 255, 255, 0.1);
+            background: rgb(91 188 135 / 95%);
             border-radius: 5px;
             font-size: 1em;
             color: #fff;
@@ -283,7 +293,9 @@ background: linear-gradient(125deg, rgba(15,55,47,1) 0%, rgba(24,86,73,1) 35%, r
                     <p>Green Energy Exchange is a pioneering platform that connects individuals and businesses generating excess green energy with those seeking to purchase clean, renewable power. Our mission is to accelerate the transition to a sustainable energy future by creating a marketplace that rewards green energy producers and provides accessible clean energy options to consumers.</p>
                     <p>By facilitating the exchange of locally produced renewable energy, we're not only reducing reliance on fossil fuels but also empowering communities to take control of their energy production and consumption. This peer-to-peer approach to energy distribution promotes energy independence, reduces transmission losses, and supports the growth of decentralized, resilient energy systems.</p>
                 </div>
-                <div class="image-placeholder"></div>
+                <div class="image-placeholder">
+                    <img src="windmill.jpg" id = "windmill">
+                </div>
             </div>
         </div>
 
