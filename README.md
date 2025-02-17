@@ -78,3 +78,4 @@ If you have any questions or suggestions, feel free to contact the project team:
 - [Amish Mathur (Amishmathur1)](https://github.com/amishmathur1)
 - [Ansh (PikachuGX)](https://github.com/PikachuGX)
 - [Sarthak Dharmik (XaXtric7)](https://github.com/XaXtric7)
+- [Om Shishodiya (OmShishodiya)](https://github.com/OmShishodiya)
